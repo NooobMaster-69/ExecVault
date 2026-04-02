@@ -6,7 +6,6 @@ Built with FastAPI, with optional Redis-backed job queues for horizontal scaling
 
 ![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -238,6 +237,3 @@ python test_api_more_e2e.py
 
 ---
 
-## License
-
-MIT
