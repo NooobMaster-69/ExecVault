@@ -4,9 +4,6 @@ A backend platform for executing untrusted code in isolated environments. Submit
 
 Built with FastAPI, with optional Redis-backed job queues for horizontal scaling.
 
-![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)
-
 ---
 
 ## Why
