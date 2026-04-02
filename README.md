@@ -224,16 +224,7 @@ server.py, client.py         Legacy TCP socket interface
 executor.py, utils.py        Legacy helpers (kept for reference)
 ```
 
----
 
-## Tests
-
-With the server running:
-
-```bash
-python test_api_e2e.py
-python test_api_more_e2e.py
-```
 
 ---
 
