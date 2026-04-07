@@ -71,7 +71,7 @@ export default function App() {
       setStatus(null);
       setRunning(false);
     }
-  }, [running, code, language, timeout, clearPoll]);
+  }, [running, code, language, timeout, userInput, clearPoll]);
 
   useEffect(() => {
     const handleKeyDown = (e) => {
